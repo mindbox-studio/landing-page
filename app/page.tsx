@@ -1,4 +1,4 @@
-import ShowcaseFilter from "./ShowcaseFilter.tsx";
+import ShowcaseFilter from "./ShowcaseFilter";
 
 const kakaoUrl = "https://open.kakao.com/o/sYIre0Ci";
 const snsPortfolioUrl = "https://leather-dandelion-aa5.notion.site/SNS-MINDBOX-Portfolio-3a98a573219c812cbcaceb8a7c3e1dd7";
