@@ -272,7 +272,11 @@ export default function Home() {
       <section className="hero" id="top">
         <div className="hero-copy">
           <p className="kicker"><span /> SNS CONTENT STUDIO</p>
-          <h1>
+          <h1 className="hero-title-new">
+            <span>브랜드가 계속</span>
+            <span><em>기억되는</em> 콘텐츠를 만듭니다.</span>
+          </h1>
+          <h1 className="legacy-hero-title">
             <span>꾸준히 올리는 것보다</span>
             <span><em>이유 있게</em> 만듭니다.</span>
           </h1>
