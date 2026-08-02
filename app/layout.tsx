@@ -12,7 +12,7 @@ export async function generateMetadata(): Promise<Metadata> {
 
   return {
     metadataBase: new URL(origin),
-    title,
+    title: "마인드박스 | 브랜드 콘텐츠 스튜디오",
     description,
     icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
     openGraph: {
