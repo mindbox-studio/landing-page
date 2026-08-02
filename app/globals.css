@@ -31,6 +31,7 @@ nav a:hover, .text-link:hover { opacity: .55; }
 .kicker { display: flex; align-items: center; gap: 10px; }
 .kicker span { width: 7px; height: 7px; background: var(--acid); border: 1px solid var(--ink); border-radius: 50%; }
 .hero h1 { max-width: 580px; font-size: clamp(48px, 4.1vw, 61px); line-height: 1.13; letter-spacing: -.065em; margin: 0; font-weight: 950; }
+.legacy-hero-title { display: none; }
 .hero h1 > span { display: block; }
 .hero h1 em { font-style: normal; position: relative; z-index: 0; }
 .hero h1 em::after { content: ""; position: absolute; left: -3%; right: -3%; bottom: 4px; height: 24%; background: var(--acid); z-index: -1; transform: rotate(-1deg); }
